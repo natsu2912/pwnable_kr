@@ -1,0 +1,3 @@
+0x21dd09ec / 5 = 113626824 = 0x06c5cec8
+0x21dd09ec - 0x06c5cec8 * 4 = 0x06c5cecc
+=> passcode = "\xc8\xce\xc5\x06" * 4 + "\xcc\xce\xc5\x06"
